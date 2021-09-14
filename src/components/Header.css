@@ -1,0 +1,20 @@
+.Header ul{
+    background-color: #312929;
+    padding: 1vh 0;
+    list-style: none;
+    display: flex;
+    justify-content: space-around;
+}
+
+.Header ul li:nth-of-type(1) a{
+    color: #BB7043;
+
+}
+
+.Header a{
+    text-decoration: none;
+    color: #fff;
+}
+
+
+

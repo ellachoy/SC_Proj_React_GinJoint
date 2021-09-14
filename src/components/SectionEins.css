@@ -1,0 +1,25 @@
+.SectionEins{
+    background-image: url('../assets/header.png');
+    background-size: contain;
+    background-repeat: no-repeat;
+    width: 100vw;
+    height: 100vh;
+}
+
+.SectionEins p{
+    color: #FFFFFF;
+    text-align: center;
+    padding: 3% 0% 0% 0%;  
+}
+
+.SectionEins p:nth-of-type(1){
+    font-size: 3rem;  
+}
+
+.SectionEins p:nth-of-type(2){
+    font-size: 5rem;    
+}
+
+.SectionEins p:nth-of-type(3){
+    font-size: 3rem;    
+}
